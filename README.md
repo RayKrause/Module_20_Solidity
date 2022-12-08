@@ -38,6 +38,7 @@ The steps for this homework are divided into the following sections:
 
     * Two variables of type `uint public` named `lastWithdrawAmount` and `contractBalance`
 
+ ![Decorative image.](Execution_Results/js1.png)
 
 4. Define a function named `withdraw` that accepts two arguments: `amount` of type `uint` and `recipient` of type `payable address`. In this function, code the following:
 
@@ -53,12 +54,15 @@ The steps for this homework are divided into the following sections:
 
     * Set the `contractBalance` variable equal to the balance of the contract by using `address(this).balance` to reflect the new balance of the contract.
 
+ ![Decorative image.](Execution_Results/js2.png)
 
 5. Define a `public payable` function named `deposit`. In this function, code the following:
 
     * Set the `contractBalance` variable equal to the balance of the contract by using `address(this).balance`.
 
 6. Define a `public` function named `setAccounts` that takes two `address payable` arguments, named `account1` and `account2`. In the body of the function, set the values of `accountOne` and `accountTwo` to `account1` and `account2`, respectively.
+
+ ![Decorative image.](Execution_Results/js3.png)
 
 7. Add a fallback function so that your contract can store ether that’s sent from outside the deposit function.
 

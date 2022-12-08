@@ -85,6 +85,8 @@ To interact with your deployed smart contract, complete the following steps:
     > Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
     > ```
 
+![Decorative image.](Execution_Results/set_accounts.png)
+
 2. Test the deposit functionality of your smart contract by sending the following amounts of ether. After each transaction, use the `contractBalance` function to verify that the funds were added to your contract:
 
     * Transaction 1: Send 1 ether as wei.

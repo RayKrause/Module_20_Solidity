@@ -95,14 +95,17 @@ To interact with your deployed smart contract, complete the following steps:
     * Transaction 1: Send 1 ether as wei.
    
    ![Decorative image.](Execution_Results/1_ether.png)
+   
 
     * Transaction 2: Send 10 ether as wei.
    
    ![Decorative image.](Execution_Results/10_ether.png)
    
+   
     * Transaction 3: Send 5 ether.
    
    ![Decorative image.](Execution_Results/5_ether.png)
+   
    
     > **Note** Remembering how to convert ether to wei and vice versa can be challenging. So, you can use a website like [Ethereum Unit Converter](https://eth-converter.com/) to ease doing the conversion.
 

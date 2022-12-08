@@ -66,6 +66,8 @@ The steps for this homework are divided into the following sections:
 
 7. Add a fallback function so that your contract can store ether that’s sent from outside the deposit function.
 
+ ![Decorative image.](Execution_Results/js4.png)
+
 #### Step 2: Compile and Deploy Your Contract in the JavaScript VM
 
 1. Compile your smart contract. If an error occurs, review your code, and make the necessary changes for a successful compilation.

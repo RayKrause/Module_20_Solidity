@@ -96,11 +96,9 @@ To interact with your deployed smart contract, complete the following steps:
    
    ![Decorative image.](Execution_Results/1_ether.png)
    
-
     * Transaction 2: Send 10 ether as wei.
    
    ![Decorative image.](Execution_Results/10_ether.png)
-   
    
     * Transaction 3: Send 5 ether.
    
@@ -112,11 +110,17 @@ To interact with your deployed smart contract, complete the following steps:
 3. Once you’ve successfully deposited funds into your contract, test the contract’s withdrawal functionality by withdrawing 5 ether into `accountOne` and 10 ether into `accountTwo`. After each transaction, use the `contractBalance` function to verify that the funds were withdrawn from your contract. Also, use the `lastToWithdraw` and `lastWithdrawAmount` functions to verify that the address and amount were correct.
 
 Withdrawing 5 ether into `accountOne`
+
 ![Decorative image.](Execution_Results/withdraw_5_ether.png)
+
 Withdrawing 10 ether into `accountTwo`
+
 ![Decorative image.](Execution_Results/withdraw_10_ether.png)
+
 Final balance of 1 ether remaining
+
 ![Decorative image.](Execution_Results/final_balance.png)
+
 ---
 
 ### Submission
